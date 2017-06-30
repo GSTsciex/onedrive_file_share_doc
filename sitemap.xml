@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://test.com/index.html</loc>
+    <lastmod>2017-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://test.com/images/pasted%20image%201900x912.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/pasted%20image%201896x964.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/pasted%20image%201918x912.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/pasted%20image%201152x332.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/2017-06-30_8-43-48.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/pasted%20image%20710x592.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/layer%200.png</image:loc>
+    </image:image>
+  </url>
+</urlset>
